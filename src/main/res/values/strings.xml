@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Туры по России</string>
+    <string name="search_hint">Поиск туров...</string>
+    <string name="filter">Фильтры</string>
+    <string name="tour_image">Фото тура</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="duration">Длительность</string>
+    <string name="price">Цена</string>
+    <string name="difficulty">Сложность</string>
+    <string name="attractions">Достопримечательности</string>
+    <string name="highlights">Особенности</string>
+    <string name="book_now">Забронировать сейчас</string>
+    <string name="price_range">Диапазон цены</string>
+    <string name="min_price">Минимум</string>
+    <string name="max_price">Максимум</string>
+    <string name="region">Регион</string>
+    <string name="all_regions">Все регионы</string>
+    <string name="central_russia">Центральная Россия</string>
+    <string name="siberia">Сибирь</string>
+    <string name="south_russia">Южная Россия</string>
+    <string name="easy">Легко</string>
+    <string name="medium">Средняя</string>
+    <string name="hard">Сложно</string>
+    <string name="reset">Сбросить</string>
+    <string name="apply">Применить</string>
+    <string name="favorites">Избранное</string>
+</resources>
