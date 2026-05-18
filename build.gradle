@@ -1,8 +1,9 @@
 plugins {
-    id 'com.android.application'
+    id 'com.android.application' version '7.4.2'
 }
 
 android {
+    namespace "com.example.toursrussia"
     compileSdk 33
 
     defaultConfig {
